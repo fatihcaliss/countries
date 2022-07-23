@@ -3,7 +3,7 @@ import Table from 'react-bootstrap/Table';
 
 const CountryList = ({searchingCountries}) => {
   return (
-    <Table striped bordered hover className='mt-5'>
+    <Table striped bordered hover responsive className='mt-5'>
     <thead>
       <tr>
         <th>No</th>

@@ -26,7 +26,7 @@ function SearchForm({ countries,setSearchingCountries}) {
         }
     }
     return (
-        <form className='d-flex flex-column gap-2 mt-4' onSubmit={handleSubmit}>
+        <form className='d-flex flex-column gap-2 mt-5 m-auto' onSubmit={handleSubmit}>
             <Form.Label htmlFor="search" ><h2>Searching Form</h2></Form.Label>
             <Form.Control
                 type="text"
