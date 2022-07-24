@@ -52,5 +52,3 @@ function SearchForm({ countries,setSearchingCountries}) {
 }
 
 export default SearchForm;
-
-// onChange={(e)=> handleFilter(e.target.value)}

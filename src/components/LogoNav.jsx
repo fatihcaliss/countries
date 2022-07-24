@@ -13,7 +13,7 @@ function LogoNav() {
                             width="40"
                             height="40"
                             className="d-inline-block align-top me-3"
-                        /></a>Countries App
+                        /></a><a href="https://countries-app-seven-gamma.vercel.app/" className='text-decoration-none text-light'>Countries App</a> 
                     </Navbar.Brand>
                 </Container>
             </Navbar>
